@@ -7,4 +7,4 @@ and using Neural Networks for binary classification of text.
 
 Data for the project can be found at [this repo](https://github.com/Minyall/trump_tweet_classifier/blob/master/images/accuracy_scores.jpg?raw=true).
 
-![accuracy scores for different Neural Network Models](http://github.com/Minyall/trump_tweet_classifier/blob/master/images/accuracy_scores.jpg "Accuracy Scores")
+[accuracy scores for different Neural Network Models]:http://github.com/Minyall/trump_tweet_classifier/blob/master/images/accuracy_scores.jpg "Accuracy Scores"
