@@ -2,6 +2,8 @@
 A small project written in Python that uses a Neural Network to predict
  when a tweet was written by Donald Trump, and when it was written by his staff.
 
+ A corresponding write-up of the project is available on Medium: [Finding Trump with Neural Networks - Medium](https://medium.com/@Minyall/finding-trump-with-neural-networks-4419468e0624)
+
 #### Rationale
 Prior to March 2018 Donald Trump had been using an unauthorised personal Android phone in his role at POTUS. Whilst a source of anxiety for his staff, for journalists and researchers this was particularly useful for distinguishing the words of the President himself, from those of the White House staff. With Twitter’s API providing information on the ‘source’ for each Tweet, it became a fair assumption that if the ‘source’ was Android, it was pure Trump. However in March 2017 Trump moved to an authorised iPhone, obscuring the origin of tweets specifically from his phone.
 
